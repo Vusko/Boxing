@@ -1,0 +1,68 @@
+body {
+   background-image: url("box.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
+}
+ul{
+	background: #2d0303;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+}
+li{
+	color:black;
+	display: inline-block;
+	padding:5px;
+	background: red;
+	margin:0 8px;
+	vertical-align: text-top;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+#Contacts {
+	color: black;
+}
+#Services {
+	color: black;
+}
+p {
+	position: relative;
+	bottom: 250px;
+	color: black;
+	font-size: 20px;
+	text-align: left;
+}
+div {
+	background: #c93d16;
+}
+h1 {
+	text-align: center;
+	position: relative;
+	bottom: 250px;
+}
+#h1 {
+	height: 250px;
+	width: 300px;
+	position: relative;
+	left: 1000px;
+}
+#h2 {
+	position: relative;
+	top: 485px;
+	height: 250px;
+	width: 300px;
+	left: 700px;
+}
+#h3 {
+	top: 1000px;
+	height: 250px;
+	width: 300px;
+	position: relative;
+	left: 400px;
+
+}
+
